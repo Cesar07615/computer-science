@@ -1,0 +1,15 @@
+			¿Que tengo que hacer para ir al cine?
+
+1. checar en el el telefono que pelis hay
+2. si no me interesa ninguna entonces no voy
+3. si me interesa, ver horarios y dias disponibles
+4. verificar el costo de la entrada
+5. Establecer la pelicuala aver
+6. arreglarme el dia, segun como quiera
+7. calcular los tiempos de transporte junto con la hora de la peli
+8. Ir al cine
+9. pagar por entrada
+10. comprar snacks
+11. dirigirme a la sala
+12. sentarme y comer
+13. ver pelicula
